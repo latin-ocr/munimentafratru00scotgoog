@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./munimentafratru00scotgoog_0014.png"; bbox 0 0 5142 6684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 269 687 1422 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 269 687 1422 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 354 687 757 852; baseline 0.037 -28"><span class='ocrx_word' id='word_1_1' title='bbox 354 687 757 852; x_wconf 54' lang='lat' dir='ltr'><strong>sswomm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 269 838 1422 1034; baseline -0.012 0"><span class='ocrx_word' id='word_1_2' title='bbox 269 887 273 894; x_wconf 29' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 470 891 544 1034; x_wconf 61' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1035 838 1422 1026; x_wconf 42' lang='lat' dir='ltr'><strong>&amp;WB-Q&amp;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1062 1055 1406 1155; baseline 0.032 -11"><span class='ocrx_word' id='word_1_5' title='bbox 1062 1055 1159 1147; x_wconf 69' lang='grc' dir='ltr'><strong>ιιυΝ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1199 1061 1406 1155; x_wconf 80' lang='lat'>151914</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1166 2983 1535 3044">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1166 2983 1535 3044">
+     <span class='ocr_line' id='line_1_4' title="bbox 1166 2983 1535 3044; baseline -0.003 -10"><span class='ocrx_word' id='word_1_7' title='bbox 1166 2984 1272 3034; x_wconf 75' lang='lat' dir='ltr'><em>Prtnted</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1279 2983 1309 3044; x_wconf 87' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1319 2986 1351 3034; x_wconf 89' lang='lat' dir='ltr'><strong>R.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1366 2988 1399 3037; x_wconf 63' lang='grc' dir='ltr'><strong>ὁ*</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1409 2987 1440 3036; x_wconf 85' lang='lat' dir='ltr'><strong>R.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1459 2985 1535 3035; x_wconf 83' lang='lat' dir='ltr'><em>Clark</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1069 3277 1640 3340">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1069 3277 1640 3340">
+     <span class='ocr_line' id='line_1_5' title="bbox 1069 3277 1640 3340; baseline 0 -12"><span class='ocrx_word' id='word_1_13' title='bbox 1069 3279 1186 3329; x_wconf 85' lang='lat' dir='ltr'>DAVID</span> <span class='ocrx_word' id='word_1_14' title='bbox 1207 3279 1386 3340; x_wconf 83' lang='lat' dir='ltr'><strong>DOUGLAS,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1410 3277 1640 3330; x_wconf 86' lang='lat' dir='ltr'><strong>EDINBURGH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2576 6676">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2576 6676">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2576 6676; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2576 6676; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
